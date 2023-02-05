@@ -23,12 +23,6 @@ operation was successfully completed.
 2. `Get` [url](https://bookmyshow-api.onrender.com)/api/booking
 
    This is a get request endpoint which is used to get the last booking deatils of user.
-    
-
-### Contributors
-1. Bhabani Shankar Das [Profile](https://github.com/Shankar2612).
-2. Vikas kotari [Profile](https://github.com/vikas-viki).
-3. Jagannath Prasad Mohanty [Profile](https://github.com/Jagannath04).
 
 #### Contributions are always welcome!
 
